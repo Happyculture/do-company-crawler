@@ -1,12 +1,16 @@
-INSTALLATION
+**INSTALLATION**
 
-You need to use Casper.js to crawl the pages. Installation step: http://docs.casperjs.org/en/latest/installation.html
+You need to use Casper.js to crawl the pages. Installation steps: http://docs.casperjs.org/en/latest/installation.html
 
-USAGE
+**USAGE**
 
-To use the script just launch the script like that: casperjs crawler-do.js
+To use the script just launch the script like that:
 
-TODO:
+```shell
+casperjs crawler-do.js
+```
+
+**TODO**
 
 - Parse the companies services list
 - Send the data to a PHP for storage purpose
